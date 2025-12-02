@@ -10,11 +10,11 @@ This project focuses on analyzing Adidas U.S. Sales Data to uncover insights int
 - Provide data-driven recommendations to improve revenue and profitability.
 
 ⚙️ Key Features
-📊 Executive Overview: Tracks total sales, profit, units sold, and profit margin.
-🛍️ Product & Category Analysis: Highlights best-selling and most profitable Adidas products.
-🗺️ Regional & Retailer Insights: Compares regional performance and retailer profitability.
-💹 Trend Analysis: Displays sales growth patterns over time.
-📈 Dynamic Filters: Interactive slicers for year, region, and sales method.
+- Executive Overview: Tracks total sales, profit, units sold, and profit margin.
+- Product & Category Analysis: Highlights best-selling and most profitable Adidas products.
+- Regional & Retailer Insights: Compares regional performance and retailer profitability.
+- Trend Analysis: Displays sales growth patterns over time.
+- Dynamic Filters: Interactive slicers for year, region, and sales method.
 
 🧩 Tools & Technologies
 - Power BI – Dashboard creation and data visualization
@@ -30,13 +30,13 @@ This project focuses on analyzing Adidas U.S. Sales Data to uncover insights int
 - Profit margin stands at an impressive 36.91%, indicating strong pricing and product strategy.
 
 📂 Dataset Information
-Source: Adidas U.S. Retail and Online Sales Data
-Coverage: 50 U.S. states
-Period: 2020–2021
-Observation Type: Aggregated sales per retailer or product
+- Source: Adidas U.S. Retail and Online Sales Data
+- Coverage: 50 U.S. states
+- Period: 2020–2021
+- Observation Type: Aggregated sales per retailer or product
 
 📬 Author
-  Name: Ruchitha M
-  Tools Used: Power BI, Excel, DAX, Power Query
-  GitHub: https://github.com/RuchithaKadam 
-  LinkedIn: www.linkedin.com/in/ruchitha-m-a6682527b
+- Name: Ruchitha M
+- Tools Used: Power BI, Excel, DAX, Power Query
+- GitHub: https://github.com/RuchithaKadam 
+- LinkedIn: www.linkedin.com/in/ruchitha-m-a6682527b
