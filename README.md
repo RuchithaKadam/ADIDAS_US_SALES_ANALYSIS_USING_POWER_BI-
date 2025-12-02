@@ -36,7 +36,7 @@ Period: 2020–2021
 Observation Type: Aggregated sales per retailer or product
 
 📬 Author
-Name: Ruchitha M
-Tools Used: Power BI, Excel, DAX, Power Query
-GitHub: https://github.com/RuchithaKadam 
-LinkedIn: www.linkedin.com/in/ruchitha-m-a6682527b
+  Name: Ruchitha M
+  Tools Used: Power BI, Excel, DAX, Power Query
+  GitHub: https://github.com/RuchithaKadam 
+  LinkedIn: www.linkedin.com/in/ruchitha-m-a6682527b
